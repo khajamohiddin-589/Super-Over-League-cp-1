@@ -1,6 +1,6 @@
-'''add comment line
+/*add comment line
 in the js line 
-understanding git'''
+understanding git */
 
 const element = (
   <div className="main-container">
